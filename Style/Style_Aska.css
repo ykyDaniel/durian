@@ -5,7 +5,7 @@ body {
 }
 
 img.person {
-    width: 250px;
+    width: 150px;
     float:  left;
     padding-left:  30px;
     padding-right:  30px;
@@ -23,11 +23,11 @@ div#logo {
 }
 
 div#container {
-	background-color: #418a13;
+	background-color: darkblue;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
-	min-height: 300px;
+	min-height: 500px;
 	margin: 0 auto -4em;
 	clear: both;
 	margin-left: auto;
