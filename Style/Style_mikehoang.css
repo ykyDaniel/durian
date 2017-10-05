@@ -1,0 +1,73 @@
+body {
+    height: 100vh;
+    background-image: url("../Images/MikeHoang/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 35px;
+    color: rgb(245, 23, 63);
+}
+
+p {
+    font-size: 20px;
+}
+
+h1, p {
+    text-align: center;
+}
+
+#container {
+    border-radius: 40px;
+    border: solid 1.5px black;
+    margin: 10px auto 0;
+    padding: 30px 30px 30px 30px;
+    width: 80%;
+    background-color: rgba(228, 224, 221, 0.53);
+}
+
+.center {
+    margin-left: 30%;
+}
+
+#bio {
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: rgba(43, 43, 43, 0.85);
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border-radius: 30px;
+}
+
+.person {
+    width: 20%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20%;
+    border-style: outset;
+    border-width: 10px;
+    border-color: rgb(231, 135, 126);
+}
+
+a {
+    text-decoration: none;
+}
+
+.email {
+    display: inline;
+}
+
+#contact {
+    text-align: center;
+}
+
+.icon {
+    display: inline;
+    width: 40px;
+    height: auto;
+}
